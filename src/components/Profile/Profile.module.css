@@ -6,6 +6,7 @@
   max-width: 300px;
   height: auto;
   text-align: center;
+  margin: 0 auto;
 }
 
 .userCardBody {
@@ -41,10 +42,8 @@
 .userCardStats {
   padding: 0px;
   margin: 0px;
-
   display: flex;
   justify-content: space-between;
-
   border-top: 2px solid #808080;
   background-color: #d3d3d3;
   border-bottom-right-radius: 8px;
